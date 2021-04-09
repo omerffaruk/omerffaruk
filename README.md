@@ -4,11 +4,11 @@ In order to be accepted by the Code Your Future, I was needed to build websites 
 courses that I can self-teach myself about JavaScript. My purpose was to ensure I would be ready for the Code Your Future interview, and if accepted, also for the 8 months 
 full-stack course. My research led me to CodeCademy. Their annual subscription seemed a good option to me since they offer many courses for beginners. 
 So I started learning vanilla JavaScript on CodeCademy. In the meantime, my application to Code Your Future was accepted, and I have started the course. I am now attending the 
-Code Your Future full-stack course and also continue learning on CodeCademy. 
+Code Your Future fundamental course and also continue learning on CodeCademy. 
 
 - 👀 I’m particularly interested in JavaScript and JavaScript frameworks. The feedback I have received has convinced me to focus on one particular area as a new learner. I would
-like strengthen my knowledge with JavaScript projects. I will regularly share my CodeCademy projects on GitHub so that I could trace my progress, and also receive your valuable
-feedback. Please feel free to comment on my project, they are appreciated. Other than the course and self-teaching JavaScript, I am learning about blockchain technology. I have a 
+like to strengthen my knowledge with JavaScript projects. I will regularly share my CodeCademy projects on GitHub so that I could trace my progress, and also receive your valuable
+feedback. Please feel free to comment on my projects, they are appreciated. Other than the course and self-teaching JavaScript, I am learning about blockchain technology. I have a 
 major interest in the technology that powers cryptocurrencies. I have realized that blockchain is more than cryptocurrencies and they carry the potential to revolutionize our 
 life in the close future. I would be glad to hear your opinions about this topic. 
 
