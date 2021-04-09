@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @omerffaruk. You may call me Omer. I am a keen programming learner. My programming journey has started with the Code Your Future (a community/coding school). 
 In order to be accepted by the Code Your Future, I was needed to build websites with basic HTML and CSS. Once I submitted my application, I researched about platforms and 
 courses that I can self-teach myself about JavaScript. My purpose was to ensure I would be ready for the Code Your Future interview, and if accepted, also for the 8 months 
-full-stack course. My research led me to CodeCademy. Their annual subscription seemed a good option to me, as a newbie in programming, they offer many courses for beginners. 
+full-stack course. My research led me to CodeCademy. Their annual subscription seemed a good option to me since they offer many courses for beginners. 
 So I started learning vanilla JavaScript on CodeCademy. In the meantime, my application to Code Your Future was accepted, and I have started the course. I am now attending the 
 Code Your Future full-stack course and also continue learning on CodeCademy. 
 
