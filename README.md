@@ -18,8 +18,6 @@ road, I will be of help more.
 - 🌱 Personally, I like playing (and watching) soccer and basketball, cycling, running, learning a language, reading books, watching films, learning about investment, playing
 a musical instrument and surely programming. 
 
-- 📫 You may reach me on Instagram(ffarukyamak - https://www.instagram.com/ffarukyamak/) and Twitter.
-
 <!---
 omerffaruk/omerffaruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
