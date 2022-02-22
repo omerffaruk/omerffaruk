@@ -1,4 +1,4 @@
-<p align="center"><img height="10vh" src="./images/justdoit.jpg" alt="just do it" /></p>
+<p align="center"><img height="200px" src="./images/justdoit.jpg" alt="just do it" /></p>
 
 # Hi there ! 👋 I'm Omer
 
