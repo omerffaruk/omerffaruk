@@ -1,3 +1,5 @@
+<p align="center"><img width="95%" src="./images/justdoit.png" /></p>
+
 # Hi there ! 👋 I'm Omer
 
 - 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/"> <img align="center" width="25%" src="./images/cyf.png" alt="CodeYourFuture" /></a>
