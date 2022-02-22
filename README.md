@@ -1,6 +1,6 @@
 # Hi there ! 👋 I'm Omer
 
-- 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/"> <img align="center" width="25%" src="./images/cyf.png" /></a>
+- 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/"> <img align="center" width="25%" src="./images/cyf.png" alt="CodeYourFuture" /></a>
 - 〽️ I believe having a high self-respect is a must to maintain happiness :smiley:
 - ❤️ I love doing sports, especially kickboxing <span style="font-size:24px;"> :boxing_glove: </span>
 
@@ -38,8 +38,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [linkedin]: https://www.linkedin.com/in/omer-yamak-539a84214/
-
-<!-- [html]: "/"
+[html]: "/"
 [css]: "/"
 [js]: "/"
 [react]: "/"
@@ -47,4 +46,4 @@
 [sql]: "/"
 [git]: "/"
 [cli]: "/"
-[python]: "/" -->
+[python]: "/"
